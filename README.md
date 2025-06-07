@@ -9,3 +9,4 @@ Repositorio para alojar el trabajo integrador de la materia Arquitectura y Siste
 ---
 ### Video del trabajo integrador
 - https://drive.google.com/file/d/1ku4LyvSWwf4Do6fcJMZEr2q_UUMERp8m/view?usp=drive_link
+- https://drive.google.com/file/d/1IoZqchpjGSZP-GZ5P-E63UywtsATzhUZ/view?usp=drivesdk
