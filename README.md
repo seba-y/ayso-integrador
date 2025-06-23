@@ -7,6 +7,5 @@ Repositorio para alojar el trabajo integrador de la materia Arquitectura y Siste
 - Comision 9.
 - Materia: Arquitectura y Sistemas Operativos
 ---
-### Video del trabajo integrador
-- https://drive.google.com/file/d/1ku4LyvSWwf4Do6fcJMZEr2q_UUMERp8m/view?usp=drive_link
-- https://drive.google.com/file/d/1IoZqchpjGSZP-GZ5P-E63UywtsATzhUZ/view?usp=drivesdk
+### Video del trabajo integrador (RECUPERATORIO)
+- https://drive.google.com/file/d/1k6L0hT12Ep3t-jfM4fZaQF_bteUuF5s3/view?usp=sharing
